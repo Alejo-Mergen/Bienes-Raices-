@@ -14,10 +14,9 @@
         font-weight: $bold;
         text-transform: uppercase;
         display: block;
-
     }
 
-    input:not([type="sumbit"]),
+    input:not([type="submit"]),
     textarea,
     select{
         padding: 1rem;
